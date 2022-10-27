@@ -1,0 +1,15 @@
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\bin\Debug\net6.0\Exercise21.exe
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\bin\Debug\net6.0\Exercise21.deps.json
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\bin\Debug\net6.0\Exercise21.runtimeconfig.json
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\bin\Debug\net6.0\Exercise21.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\bin\Debug\net6.0\Exercise21.pdb
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\obj\Debug\net6.0\Exercise21.csproj.AssemblyReference.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\obj\Debug\net6.0\Exercise21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\obj\Debug\net6.0\Exercise21.AssemblyInfoInputs.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\obj\Debug\net6.0\Exercise21.AssemblyInfo.cs
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\obj\Debug\net6.0\Exercise21.csproj.CoreCompileInputs.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\obj\Debug\net6.0\Exercise21.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\obj\Debug\net6.0\refint\Exercise21.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\obj\Debug\net6.0\Exercise21.pdb
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\obj\Debug\net6.0\Exercise21.genruntimeconfig.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar3\Exercise21\obj\Debug\net6.0\ref\Exercise21.dll
