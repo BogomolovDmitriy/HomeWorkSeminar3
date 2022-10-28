@@ -2,7 +2,7 @@
 {
     int IsPrime(int number)
     {
-        for (int i = 2; i < number; i++)
+        for (int i = 2; i <= Math.Sqrt(number); i++)
         {
             if (number % i == 0)
             {
