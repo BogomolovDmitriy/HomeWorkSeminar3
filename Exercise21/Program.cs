@@ -9,38 +9,44 @@ double VectorLength(int ax, int ay, int az, int bx, int by, int bz)
 int[] dotA = new int[3];
 int[] dotB = new int[3];
 
-//Координаты точки А
-dotA[0] = new Random().Next(-10, 11);
-dotA[1] = new Random().Next(-10, 11);
-dotA[2] = new Random().Next(-10, 11);
+int maxValue = 10;
+int minValue = - 10;
 
-//Координаты точки B
-dotB[0] = new Random().Next(-10, 11);
-dotB[1] = new Random().Next(-10, 11);
-dotB[2] = new Random().Next(-10, 11);
+void CreateCoordinateDot3DRandom(int[] nameArray)
+{
+    for (int i = 0; i < 3; i++)
+    {
+        nameArray[i] = new Random().Next(minValue, maxValue);
+    }
+}
+
+CreateCoordinateDot3DRandom(dotA);
+CreateCoordinateDot3DRandom(dotB);
 
 // //Координаты точки А
-// dotA[0] = 3;
-// dotA[1] = 6;
-// dotA[2] = 8;
+// dotA[0] = 7;
+// dotA[1] = -7;
+// dotA[2] = 3;
 
 // //Координаты точки B
-// dotB[0] = 2;
-// dotB[1] = 1;
-// dotB[2] = -7;
+// dotB[0] = 3;
+// dotB[1] = 8;
+// dotB[2] = 1;
+
+void CoordinateOutput(int[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write(array[i] + " ");
+    }
+}
 
 Console.Write("Координаты точки А: ");
-for (int i = 0; i < dotA.Length; i++)
-{
-    Console.Write(dotA[i] + " ");
-}
+CoordinateOutput(dotA);
 
 Console.WriteLine();
 Console.Write("Координаты точки В: ");
-for (int i = 0; i < dotB.Length; i++)
-{
-    Console.Write(dotB[i] + " ");
-}
+CoordinateOutput(dotB);
 
 Console.WriteLine();
 Console.Write("Расстояние между точками: ");
